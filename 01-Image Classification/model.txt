@@ -1,0 +1,14 @@
+分类：
+Lenet
+Alexnet       √
+VGGNet        √
+inception_v3
+inception_v4
+ResNet        √
+mobilenet_v1
+mobilenet_v2
+mobilenet_v3  √
+senet         √
+
+目标检测：
+Yolo
